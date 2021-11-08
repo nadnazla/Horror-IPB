@@ -31,6 +31,5 @@
             <td>G64190100</td>
             <td>Game Programmer</td>
         </tr>
-
-    </tbody>
+    
 </table>
