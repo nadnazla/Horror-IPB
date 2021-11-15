@@ -50,7 +50,7 @@ Ada seorang mahasiswa yang mengalami astral projection saat berada di Asrama Put
 10. Jika ada arwah yang sangat dekat, senter akan menjadi SOS (prioritas 3)
 
 # Goals
-Untuk mendapatkan benda yang membuka portal ke dunianya, player harus mencari benda-benda lain untuk mendapatkan akses untuk membuka portal.
+Untuk membuka portal, player sebelumnya harus mencari beberapa benda untuk menemukan benda yang dapat membuka portal.
 
 # Failure
 Energi spiritual habis.
