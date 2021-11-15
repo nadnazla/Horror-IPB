@@ -49,7 +49,7 @@ Ada seorang mahasiswa yang mengalami astral projection saat berada di Asrama Put
 9. Semakin lama player bermain, semakin banyak pula arwah yang mengikutinya (prioritas 2)
 10. Jika ada arwah yang sangat dekat, senter akan menjadi SOS (prioritas 3)
 
-# Goal
+# Goals
 Untuk membuka portal, player sebelumnya harus mencari beberapa benda untuk menemukan benda yang dapat membuka portal.
 
 # Failure
