@@ -37,7 +37,7 @@
 # Story
 Ada seorang mahasiswa yang mengalami astral projection saat berada di Asrama Putra C4 IPB. Saat Ia ‘terbangun’, ia sendirian di gedung tersebut dan berusaha untuk masuk kembali ke tubuhnya sebelum jiwanya tersesat di dunia lain untuk selamanya. Untuk masuk kembali ke tubuhnya, ia harus membuka portal menuju dunianya.
 
-# Gameplay
+# Rules
 1. Memiliki fitur untuk mengambil objek (prioritas 1)
 2. Harus kembali ke tubuhnya sebelum energi spiritualnya habis (prioritas 1)
 3. Energi spiritual berkurang ketika bertabrakan dengan arwah lain (prioritas 1)
@@ -49,7 +49,7 @@ Ada seorang mahasiswa yang mengalami astral projection saat berada di Asrama Put
 9. Semakin lama player bermain, semakin banyak pula arwah yang mengikutinya (prioritas 2)
 10. Jika ada arwah yang sangat dekat, senter akan menjadi SOS (prioritas 3)
 
-# Goals
+# Goal
 Untuk membuka portal, player sebelumnya harus mencari beberapa benda untuk menemukan benda yang dapat membuka portal.
 
 # Failure
