@@ -27,7 +27,7 @@
         </tr>
         <tr>
             <td>3</td>
-            <td>FRamadhan Agung Karyuto</td>
+            <td>Ramadhan Agung Karyuto</td>
             <td>G64190100</td>
             <td>Game Programmer</td>
         </tr>
