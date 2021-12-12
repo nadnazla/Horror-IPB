@@ -35,7 +35,7 @@
 </table>
 
 # Story
-Ada seorang mahasiswa yang mengalami astral projection saat berada di Asrama Putra C4 IPB. Saat Ia ‘terbangun’, ia sendirian di gedung tersebut dan berusaha untuk masuk kembali ke tubuhnya sebelum jiwanya tersesat di dunia lain untuk selamanya. Untuk masuk kembali ke tubuhnya, ia harus mencari kunci menuju dunianya
+Ada seorang mahasiswa yang mengalami kejadian aneh saat berada di Asrama Putra C4 IPB. Ia terkunci dan sendirian di gedung tersebut dan berusaha untuk keluar dari asrama. Untuk keluar gedung, ia harus mencari kunci menuju dunianya
 
 # Rules
 1. Memiliki fitur untuk mengambil objek (prioritas 1) check
