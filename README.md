@@ -35,16 +35,16 @@
 </table>
 
 # Story
-Ada seorang mahasiswa yang mengalami kejadian aneh saat berada di Asrama Putra C4 IPB. Ia terkunci dan sendirian di gedung tersebut dan berusaha untuk keluar dari asrama. Untuk keluar gedung, ia harus mencari kunci menuju dunianya
+Ada seorang mahasiswa yang mengalami kejadian aneh saat berada di Asrama Putra C4 IPB. Ia terkunci dan sendirian di gedung tersebut dan berusaha untuk keluar dari asrama. Untuk keluar gedung, ia harus mencari kunci menuju dunianya.
 
 # Rules
-1. Memiliki fitur untuk mengambil objek (prioritas 1) check
-3. Energi spiritual berkurang ketika bertabrakan dengan arwah lain (prioritas 1) check
-5. Jika arwah sangat dekat, player harus lari (prioritas 1) check
-6. Player akan diberikan senter sebagai sumber penerangan (prioritas 2) check
-8. Jika bertemu dengan arwah lain, player harus berlari mencari tempat bersembunyi (prioritas 2) check
-10. Jika ada arwah yang sangat dekat, arwah akan menyerang player (prioritas 3) check
-11. jika player selalu diserang arwah, maka player akan mati
+1. Memiliki fitur untuk mengambil objek
+2. Energi spiritual berkurang ketika bertabrakan dengan arwah lain 
+3. Jika arwah sangat dekat, player harus lari
+4. Player akan diberikan senter sebagai sumber penerangan
+5. Jika bertemu dengan arwah lain, player harus berlari mencari tempat bersembunyi 
+6. Jika ada arwah yang sangat dekat, arwah akan menyerang player 
+7. jika player selalu diserang arwah, maka player akan mati
 
 # Goals
 Untuk menyelesaikan game, player harus mencari kunci menuju dunianya.
